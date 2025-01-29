@@ -1,10 +1,10 @@
 # 🌍 Natural Disaster Analysis with Neural Networks
 
-A machine learning project focused on analyzing historical disaster data using neural networks and advanced AI techniques. Developed collaboratively as part of an Introduction to AI course.
+A machine learning project focused on analysing historical disaster data using neural networks and advanced AI techniques. Developed collaboratively as part of an Introduction to AI course.
 
 <div align="center">
 
-A comprehensive machine learning project analyzing urban datasets using neural networks and advanced AI techniques.
+A comprehensive machine learning project analysing historical disaster data using neural networks and advanced AI techniques.
 
 <img alt="Python" src="https://img.shields.io/badge/Python-3.8+-blue.svg">
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-2.0+-orange.svg">
@@ -13,19 +13,19 @@ A comprehensive machine learning project analyzing urban datasets using neural n
 </div>
 
 ## 🎯 Project Overview
-This project, developed as part of an Introduction to AI course, implements various machine learning approaches to analyze urban datasets. Working in a collaborative team environment, we explored neural network architectures and data analysis techniques to extract meaningful insights from city-related data.
+This project, developed as part of an Introduction to AI course, implements various machine learning approaches to analyse historical disaster data datasets. Working in a collaborative team environment, we explored neural network architectures and data analysis techniques to extract meaningful insights from disaster data.
 
 ## 🚀 Key Features
 - Neural network implementation for pattern recognition
 - Data preprocessing and feature engineering
 - Multiple classification and regression models
-- Performance analysis and visualization
+- Performance analysis and visualisation
 - Comprehensive documentation and notebooks
 
 ## 📂 Repository Structure
 ```
 project/
-├── Analysis/              # Data analysis results and visualizations
+├── Analysis/              # Data analysis results and visualisations
 ├── Dataset/               # Raw and processed datasets
 ├── Final Finished Models/ # Production-ready trained models
 └── Notebooks/            # Jupyter notebooks for implementation
@@ -37,15 +37,15 @@ project/
 - TensorFlow/Keras: Neural network implementation
 - Scikit-learn: Machine learning algorithms
 - Pandas/NumPy: Data manipulation
-- Matplotlib/Seaborn: Visualization
+- Matplotlib/Seaborn: Visualisation
 
 ## 📊 Implementation Details
 - Data preprocessing and cleaning
 - Feature selection and engineering
 - Model architecture design
 - Training and validation
-- Performance optimization
-- Results visualization
+- Performance optimisation
+- Results visualisation
 
 ## 🎓 Academic Context
 This project was completed as part of a team effort in an Introduction to AI course, demonstrating practical applications of:
@@ -56,15 +56,15 @@ This project was completed as part of a team effort in an Introduction to AI cou
 - Collaborative Development
 
 ## 📈 Results
-Successfully implemented multiple neural network architectures
-Achieved significant accuracy in pattern recognition
-Developed robust data preprocessing pipeline
-Created comprehensive visualization of results
+- Implemented neural network architecture with 2000 training epochs
+- Achieved MAE of 16.86 on validation set
+- Successfully preprocessed and engineered features from disaster dataset
+- Developed visualizations for model performance analysis
 
 ## 🔧 Getting Started
 1. Clone the repository:
 ```bash
-git clone https://https://github.com/WDibble/city-uni-dataset-ai.git
+git clone https://github.com/WDibble/city-uni-dataset-ai.git
 ```
 2. Install dependencies:
 ```bash
